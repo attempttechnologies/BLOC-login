@@ -18,5 +18,3 @@ class Bloc with ValidationMixin {
     _passwordController.close();
   }
 }
-
-final bloc = Bloc();
